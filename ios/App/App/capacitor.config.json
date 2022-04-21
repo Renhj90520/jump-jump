@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "jump-jump",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
